@@ -12,4 +12,4 @@ My app will allow one to create an account, sign-in, and submit a post, however,
 
 ## Deployment Link:
 
-https://tech-blog-1-2023.herokuapp.com/login
+https://tech-blog-1-2023.herokuapp.com
